@@ -57,6 +57,9 @@ http://localhost:8001
 
 Refer to [Postman](https://www.postman.com/) collection [here](postman/Task_manager.postman_collection.json)
 
+## Database Access
+You can reach Postgres via Adminer at http://localhost:8081/
+
 ## Testing
 
 Jump into core container and run tests
